@@ -1,0 +1,16 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "errno": -1,
+    "code": "EPERM",
+    "syscall": "futime",
+    "err": {
+      "name": "pnpm",
+      "message": "EPERM: operation not permitted, futime",
+      "code": "EPERM",
+      "stack": "pnpm: EPERM: operation not permitted, futime"
+    }
+  }
+}
